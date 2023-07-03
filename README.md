@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- #region -->
 # KazakhTTS RECIPE
 
@@ -113,3 +114,6 @@ The generated file will be saved in `tts1/synthesized_wavs` folder.
 }
 ```
 <!-- #endregion -->
+=======
+# speech2ner
+>>>>>>> 4258337b326e28754563575a3669e3576e91fe94
